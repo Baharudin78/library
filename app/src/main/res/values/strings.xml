@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LIbrary</string>
+    <string name="sambutan">Selamat datang \ndiperpustakaan Online</string>
+    <string name="selamat_datang">Selamat Datang,</string>
+    <string name="silahkan_masuk_dan_selamat_membaca">Silahkan masuk dan selamat membaca</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">********</string>
+    <string name="daftar_dengan">Daftar dengan</string>
+    <string name="masuk">Masuk</string>
+    <string name="next">Next</string>
+</resources>
